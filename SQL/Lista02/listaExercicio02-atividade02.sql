@@ -62,11 +62,3 @@ WHERE saida_pizza = "entrega";
 
 SELECT *  FROM tb_categoria
 WHERE condicao_categoria = "assada";
-
-
-
-
-
-
-
-
